@@ -2,7 +2,7 @@
 - 👀 I’m interested in integrating new ML solutions in traditional fields
 - 🌱 I’m currently a Computer Science (specialization in machine learning) student at University of Montreal
 - 📫 How to reach me 
-  email: ericchenhyy@gmail.com
+  email: eric.hanyang.chen@gmail.com
   linkedlin: https://www.linkedin.com/in/eric-chen-016876167/
 
 <!---
